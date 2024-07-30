@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      work latest
+      work latest username injast
       <button onClick={onClose}> close </button>
       <span>{tg.initDataUnsafe?.user?.username}</span>
     </div>
